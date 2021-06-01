@@ -1,0 +1,19 @@
+Adyen module version: 3.6.0
+Prestashop version: 1.7.7.4
+Environment: test, with live endpoint prefix: 
+Date and time: 2021-05-31 16:06:05
+
+Configuration values: 
+
+Auto cronjob runner: 0
+Stored payment methods: 1
+Payment display collapse: 0
+Merchant account: 
+Mode: 
+Notification user: 
+Client key test: 
+Client key live: 
+Apple pay merchant name: 
+Apple pay merchant identifier: 
+Google pay merchant gateway id: 
+Google pay merchant identifier: 
